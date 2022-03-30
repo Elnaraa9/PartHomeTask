@@ -38,7 +38,7 @@ namespace AccessModifiers.Models
             Console.WriteLine("Limit is overrated");
              foreach (var item in Students)
 	         {
-              Console.WriteLine(Students);
+              Console.WriteLine(item);
              }
         }
     }   
